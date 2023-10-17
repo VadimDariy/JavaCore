@@ -3,6 +3,7 @@ package TRAINING.ARRAY;
 public class Arrays {
     public static void main(String[] args) {
         System.out.println("start");
+        System.out.println("start 1");
         int namber = 10; // Примитивный тип данных.
 
         // 1. СОЗДАНИЕ МАССИВА С ПУСТЫМИ ЯЧЕЙКАМИ:
